@@ -21,7 +21,7 @@ norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix)
 ```
 # 2-Norm of a Matrix
-```
+```python
 Developed by :R.Sanjith
 Register No:212223230191
 import numpy as np
@@ -31,7 +31,7 @@ norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix) 
 ```
 # Infinity Norm of a Matrix
-```
+```python
 Developed by :R.Sanjith
 Register No:212223230191
 import numpy as  np
