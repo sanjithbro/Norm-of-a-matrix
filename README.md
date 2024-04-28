@@ -30,7 +30,7 @@ ans=np.linalg.norm(mat,2)
 norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix) 
 ```
-# Infinity Norm of a Matrix
+# 3-Infinity Norm of a Matrix
 ```python
 Developed by :R.Sanjith
 Register No:212223230191
